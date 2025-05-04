@@ -1,4 +1,4 @@
-#Building Complete MERN app Course
+# Building Complete MERN app Course
 
 ![Cover Photo](cover.png)
 
