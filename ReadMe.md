@@ -1,6 +1,6 @@
 #Building Complete MERN app Course
 
-[](cover.png)
+![Cover Photo](cover.png)
 
 - *instructor:*     Nkiko Hertier
 - *Duration:*       01:23:03 (1h)
